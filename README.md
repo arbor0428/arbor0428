@@ -1,9 +1,13 @@
 ## Hi there 👋
 무엇이든 쉽게 포기하지 말자. 어떤 문제도 내게는 성장의 재료가 된다.
-
-
-
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 ## Skills 📚
 <div style="display:flex; align-items:center;">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
